@@ -1,0 +1,456 @@
+<<<<<<< HEAD
+body
+{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header
+{
+    width: 100%;
+    background-color: #3b5998;
+    height: 85px;
+}
+.logo
+{
+    width: 50%;
+    height: 65px;
+    padding-top: 20px;
+    float:left;
+}
+.login
+{
+    width: 50%;
+    height: 85px;
+    float:left;
+}
+.logotext
+{
+    color: #fff;
+    text-decoration: none;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+.table
+{
+    padding-top: 15px;
+    padding-left: 150px;
+}
+.row1
+{
+    color: #fff;
+    font-size: small;
+    margin-left: 10px;
+}
+.row2
+{
+    background-color: #4267b2;
+    border-color: #29487d;
+    color: #fff;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.row2:hover
+{
+    background-color: #04398f;
+}
+.row4
+{
+    margin-left: 10px;
+}
+.row3
+{
+    font-size:smaller;
+    color: #9cb4d8;
+    cursor: pointer;
+}
+.row3:hover
+{
+    color: #fff;
+}
+.jhk
+{
+    background-color: #0866ff;
+}
+.main-body
+{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 740px;
+}
+.left
+{
+    width: 50%;
+    height: 660px;
+    float: left;
+}
+.right
+{
+    width: 50%;
+    height: 660px;
+    float: left;
+}
+.para
+{
+    padding-left: 150px;
+    padding-top: 20px;
+    font-size: 25px;
+    font-weight:700;
+    line-height: 35px;
+}
+.pic
+{
+    margin-top: -30px;
+    padding-left: 140px;
+    width: 680px;
+    height: 320px;
+}
+.top1
+{
+    font-size: 37px;
+    padding-left: 135px;
+    font-weight: 780;
+}
+.top2
+{
+    font-size: 20px;
+    padding-left: 135px;
+    font-weight: 780;
+}
+.form
+{
+    padding-left: 135px;
+}
+.entry1
+{
+    height: 30px;
+    font-size: 16px;
+    padding-left: 10px;
+    border-radius: 4px;
+    border-style: double;
+    border-color:#e4e1e1;
+    
+}
+.entry2
+{
+    margin-left: 10px;
+    height: 30px;
+    font-size: 16px;
+    padding-left: 10px;
+    border-radius: 4px;
+    border-style: double;
+    border-color:#e4e1e1;
+}
+.entry3
+{
+    width: 420px;
+    height: 30px;
+    font-size: 16px;
+    padding-left: 10px;
+    border-radius: 4px;
+    border-style: double;
+    border-color:#e4e1e1;
+}.birth
+{
+    margin-bottom: 2px;
+    color: #908b8b;
+}
+.day
+{
+    border-radius: 4px;
+    border-style: double;
+    border-color:#e4e1e1;
+    background-color: #f0f1f3;
+    width: 50px;
+    height: 30px;
+    float: left;
+}
+.day1
+{
+    border-radius: 4px;
+    border-style: double;
+    border-color:#e4e1e1;
+    background-color: #f0f1f3;
+    width: 60px;
+    height: 30px;
+    margin-left: 5px;
+    float: left;
+}
+.qnmark
+{
+    float: left;
+}
+.radio1
+{
+    float: left;
+}
+.radio
+{
+    float: left;
+    margin-left: 20px;
+}
+.text1
+{
+    margin-left: -233px;
+    margin-top: 10px;
+    display: inline;
+}
+.text2
+{
+    color: blue;
+    cursor: pointer;
+}
+.signup
+{
+    background-color: rgb(3, 146, 3);
+    width: 188px;
+    height: 38px;
+    border-radius: 5px;
+    color: #fff;
+    font-size:large;
+    font-weight: bold;
+    border-color: black;
+    border-width: 1px;
+    cursor: pointer;
+}
+.text3
+{
+    color: blue;
+    cursor: pointer;
+}
+.text4
+{
+    margin-left: 93px;
+    margin-top: -37.5px;
+    float: left;
+=======
+body
+{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header
+{
+    width: 100%;
+    background-color: #3b5998;
+    height: 85px;
+}
+.logo
+{
+    width: 50%;
+    height: 65px;
+    padding-top: 20px;
+    float:left;
+}
+.login
+{
+    width: 50%;
+    height: 85px;
+    float:left;
+}
+.logotext
+{
+    color: #fff;
+    text-decoration: none;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+.table
+{
+    padding-top: 15px;
+    padding-left: 150px;
+}
+.row1
+{
+    color: #fff;
+    font-size: small;
+    margin-left: 10px;
+}
+.row2
+{
+    background-color: #4267b2;
+    border-color: #29487d;
+    color: #fff;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.row2:hover
+{
+    background-color: #04398f;
+}
+.row4
+{
+    margin-left: 10px;
+}
+.row3
+{
+    font-size:smaller;
+    color: #9cb4d8;
+    cursor: pointer;
+}
+.row3:hover
+{
+    color: #fff;
+}
+.jhk
+{
+    background-color: #0866ff;
+}
+.main-body
+{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 740px;
+}
+.left
+{
+    width: 50%;
+    height: 660px;
+    float: left;
+}
+.right
+{
+    width: 50%;
+    height: 660px;
+    float: left;
+}
+.para
+{
+    padding-left: 150px;
+    padding-top: 20px;
+    font-size: 25px;
+    font-weight:700;
+    line-height: 35px;
+}
+.pic
+{
+    margin-top: -30px;
+    padding-left: 140px;
+    width: 680px;
+    height: 320px;
+}
+.top1
+{
+    font-size: 37px;
+    padding-left: 135px;
+    font-weight: 780;
+}
+.top2
+{
+    font-size: 20px;
+    padding-left: 135px;
+    font-weight: 780;
+}
+.form
+{
+    padding-left: 135px;
+}
+.entry1
+{
+    height: 30px;
+    font-size: 16px;
+    padding-left: 10px;
+    border-radius: 4px;
+    border-style: double;
+    border-color:#e4e1e1;
+    
+}
+.entry2
+{
+    margin-left: 10px;
+    height: 30px;
+    font-size: 16px;
+    padding-left: 10px;
+    border-radius: 4px;
+    border-style: double;
+    border-color:#e4e1e1;
+}
+.entry3
+{
+    width: 420px;
+    height: 30px;
+    font-size: 16px;
+    padding-left: 10px;
+    border-radius: 4px;
+    border-style: double;
+    border-color:#e4e1e1;
+}.birth
+{
+    margin-bottom: 2px;
+    color: #908b8b;
+}
+.day
+{
+    border-radius: 4px;
+    border-style: double;
+    border-color:#e4e1e1;
+    background-color: #f0f1f3;
+    width: 50px;
+    height: 30px;
+    float: left;
+}
+.day1
+{
+    border-radius: 4px;
+    border-style: double;
+    border-color:#e4e1e1;
+    background-color: #f0f1f3;
+    width: 60px;
+    height: 30px;
+    margin-left: 5px;
+    float: left;
+}
+.qnmark
+{
+    float: left;
+}
+.radio1
+{
+    float: left;
+}
+.radio
+{
+    float: left;
+    margin-left: 20px;
+}
+.text1
+{
+    margin-left: -233px;
+    margin-top: 10px;
+    display: inline;
+}
+.text2
+{
+    color: blue;
+    cursor: pointer;
+}
+.signup
+{
+    background-color: rgb(3, 146, 3);
+    width: 188px;
+    height: 38px;
+    border-radius: 5px;
+    color: #fff;
+    font-size:large;
+    font-weight: bold;
+    border-color: black;
+    border-width: 1px;
+    cursor: pointer;
+}
+.text3
+{
+    color: blue;
+    cursor: pointer;
+}
+.text4
+{
+    margin-left: 93px;
+    margin-top: -37.5px;
+    float: left;
+>>>>>>> origin/main
+}
